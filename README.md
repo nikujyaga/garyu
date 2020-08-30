@@ -1,0 +1,2 @@
+# garyu
+WordPress theme Garyu
