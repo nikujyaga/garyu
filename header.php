@@ -5,7 +5,7 @@
   <link rel='dns-prefetch' href='//googleads.g.doubleclick.net'>
   <link rel='dns-prefetch' href='//pagead2.googlesyndication.com'>
   <link rel='dns-prefetch' href='//tpc.googlesyndication.com'>
-
+  <link rel='dns-prefetch' href='//www.gstatic.com'>
   <link rel='preconnect dns-prefetch' href='www.google.com/analytics/analytics/'>
   <link rel='preconnect dns-prefetch' href='developers.google.com/speed/libraries/'>
   <link rel='preconnect dns-prefetch' href='developers.google.com/apis-explorer/#p'>
