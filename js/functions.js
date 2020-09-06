@@ -22,7 +22,7 @@ $('#Trigger').click(function() {
 var lazycss = function() {
   var l = document.createElement('link');
   l.rel = 'stylesheet';
-  l.href = 'https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/css/lightbox.min.css?ver=2.10.0';
+  l.href = 'https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css?ver=2.11.3';
 
   var s = document.getElementById('normalize-css');
   s.parentNode.insertBefore(l,s);

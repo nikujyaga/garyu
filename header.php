@@ -17,7 +17,7 @@
   <link rel='preconnect dns-prefetch' href='www.google.com/analytics/analytics/'>
   <link rel='preconnect dns-prefetch' href='developers.google.com/speed/libraries/'>
   <link rel='preconnect dns-prefetch' href='developers.google.com/apis-explorer/#p'>
-  <link rel='preconnect dns-prefetch' href='maxcdn.bootstrapcdn.com/'>
+  <link rel='preconnect dns-prefetch' href='www.bootstrapcdn.com/'>
   <link rel='preconnect dns-prefetch' href='marketingplatform.google.com/about/tag-manager/'>
   <link rel='preconnect dns-prefetch' href='fontawesome.com/'>
   <link rel='preconnect dns-prefetch' href='www.doubleclickbygoogle.com/'>
