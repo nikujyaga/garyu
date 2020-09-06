@@ -19,15 +19,15 @@ $('#Trigger').click(function() {
 });
 
 /* lightboxのcss遅延読み込み  */
-var lazycss = function() {
-  var l = document.createElement('link');
-  l.rel = 'stylesheet';
-  l.href = 'https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css?ver=2.11.3';
+// var lazycss = function() {
+//   var l = document.createElement('link');
+//   l.rel = 'stylesheet';
+//   l.href = 'https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css?ver=2.11.3';
 
-  var s = document.getElementById('normalize-css');
-  s.parentNode.insertBefore(l,s);
-};
-window.addEventListener("DOMContentLoaded", lazycss);
+//   var s = document.getElementById('normalize-css');
+//   s.parentNode.insertBefore(l,s);
+// };
+// window.addEventListener("DOMContentLoaded", lazycss);
 
 $(function() {
   /* #で始まるアンカーをクリックした場合に処理 */

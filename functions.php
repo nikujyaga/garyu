@@ -23,7 +23,7 @@
       function add_stylesheet()
       {
           wp_register_style('normalize', 'https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css', array(), '8.0.0');
-          // wp_register_style('lightbox2css', 'https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css', array(), '2.11.1');
+          wp_register_style('lightbox2css', 'https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css', array(), '2.11.3');
           wp_register_style('fontawesome', 'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css', array(), '4.7.0');
           wp_register_style('parent-style', get_template_directory_uri().'/style.css', array());
           wp_enqueue_style('normalize');
