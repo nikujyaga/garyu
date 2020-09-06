@@ -2,10 +2,18 @@
 <html <?php language_attributes(); ?>>
 
 <head>
-  <link rel='dns-prefetch' href='//googleads.g.doubleclick.net'>
+  <meta http-equiv='x-dns-prefetch-control' content='on'>
   <link rel='dns-prefetch' href='//pagead2.googlesyndication.com'>
+  <link rel='dns-prefetch' href='//googleads.g.doubleclick.net'>
   <link rel='dns-prefetch' href='//tpc.googlesyndication.com'>
   <link rel='dns-prefetch' href='//www.gstatic.com'>
+  <link rel='dns-prefetch' href='//adservice.google.com'>
+  <link rel='dns-prefetch' href='//adservice.google.ca'>
+  <link rel='dns-prefetch' href='//www.google.com'>
+  <link rel='dns-prefetch' href='//stats.wp.com'>
+  <link rel='dns-prefetch' href='//cse.google.com'>
+  <link rel='dns-prefetch' href='//www.googletagmanager.com'>
+
   <link rel='preconnect dns-prefetch' href='www.google.com/analytics/analytics/'>
   <link rel='preconnect dns-prefetch' href='developers.google.com/speed/libraries/'>
   <link rel='preconnect dns-prefetch' href='developers.google.com/apis-explorer/#p'>
